@@ -16,11 +16,11 @@
         <form action="note" method="post">
             <label for="title">Title: </label>
             <input type ="text" name="title" id="title" placehoder="Title">
-            
+            <br>
             <label for="contents">Contents: </label>
             <input type ="text" name="contents" id="contents" placehoder="Contents">
-            
-            <button type ="submit">Submit</button> 
+            <br>
+            <button type ="submit">Save</button> 
         </form>
     </body>
 </html>
