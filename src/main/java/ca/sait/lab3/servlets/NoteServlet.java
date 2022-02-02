@@ -66,7 +66,7 @@ public class NoteServlet extends HttpServlet {
 
        
         pw.println(title);
-        pw.print(content);
+        pw.println(content);
         pw.close();
         
         
