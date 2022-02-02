@@ -15,10 +15,10 @@
         <h1>Simple Note Keeper</h1>
         <form action="note" method="post">
             <label for="title">Title: </label>
-            <input type ="text" name="title" id="title" placehoder="Title">
+            <input type ="text" name="title" id="title" placeholder="Title">
             <br>
             <label for="contents">Contents: </label>
-            <input type ="text" name="contents" id="contents" placehoder="Contents">
+            <input type ="text" name="contents" id="contents" placeholder="Contents">
             <br>
             <button type ="submit">Save</button> 
         </form>
